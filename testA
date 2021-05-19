@@ -1,5 +1,5 @@
 this is a test
-this is new test fil
+this
 this is a test for conflict resolution
 this is a test for conflict resolution
 this is a new test line added newly test line for sample
@@ -14,5 +14,7 @@ Modified by Waseem Akram.
 5  apply stash
 6. commit
 7. push
+
+
 
 Adding a new line for testing Stash
