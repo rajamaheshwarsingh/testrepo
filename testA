@@ -7,6 +7,7 @@ this is a test line for sample
 this is a test line for conflict changes.
 this is a test
 this is test by Rajesh
+line update
 Modified by Waseem Akram.
 1. create stash
 2. pull latest
@@ -15,3 +16,5 @@ Modified by Waseem Akram.
 5  apply stash
 6. commit
 7. push
+
+Adding a new line for testing Stash
