@@ -8,3 +8,10 @@ this is a test line for conflict changes.
 this is a test
 this is test by Rajesh
 Modified by Waseem Akram.
+1. create stash
+2. pull latest
+3. resolve conflicts if any
+4. check build error
+5  apply stash
+6. commit
+7. push
